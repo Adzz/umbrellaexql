@@ -11,3 +11,5 @@ With this:
 ```elixir
 defmodule YourAppsName.MixProject do
 ```
+
+You can read about the approach I've taken here: [https://medium.com/@ItizAdz/structuring-umbrella-apps-in-elixir-79aebcb551de](https://medium.com/@ItizAdz/structuring-umbrella-apps-in-elixir-79aebcb551de)
